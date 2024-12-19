@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Taboooooooooooo.Controllers.GameController",
+    "Method": "Method",
+    "RelativePath": "api/Game",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
